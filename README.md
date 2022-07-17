@@ -10,8 +10,6 @@
 - [Questions](#questions)
 - [License](#license)
 
-<br>
-
 ## Description
 
 Using this E-commerce model, you are able to add, update and delete products, tags and categories to a sample online store. Follow the video along and test adding new products or new categories!
@@ -19,8 +17,6 @@ Using this E-commerce model, you are able to add, update and delete products, ta
 ## Installation
 
 [Walkthrough Video](link) Git Clone Repo
-
-<br>
 
 ## Usage
 
@@ -33,15 +29,9 @@ node server / install nodemon
 NOTE: make sure you have Insomnia Downloaded to your computer.
 [Insomnia](https://insomnia.rest/download) Download the latest version
 
-<br>
-
 ## Demo
 
-<br>
-
 [Full Video ](https://drive.google.com/)
-
-<br>
 
 ## Technologies Used
 
@@ -49,20 +39,15 @@ NOTE: make sure you have Insomnia Downloaded to your computer.
 - [mysql2](https://www.npmjs.com/package/mysql2)
 - [express](https://expressjs.com/)
 - [sequelize](https://sequelize.org/)
-- [dotenv](https://www.npmjs.com/package/dotenv)
 - [insomnia](https://insomnia.rest/)
-
-<br>
 
 ## Questions
 
 Contact me here:
 
-- [GitHub Profile](https://github.com/anacecyflores1/)
-  🖥️  Checkout my [LinkedIn](https://www.linkedin.com/in/anacecyflores/)
-  ✉️  You can contact me at [anacecyflores1@gmail.com](mailto:anacecyflores1@gmail.com)
-
-<br>
+[GitHub Profile](https://github.com/anacecyflores1/)
+🖥️  Checkout my [LinkedIn](https://www.linkedin.com/in/anacecyflores/)
+✉️  You can contact me at [anacecyflores1@gmail.com](mailto:anacecyflores1@gmail.com)
 
 ## License
 
