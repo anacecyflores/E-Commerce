@@ -16,22 +16,27 @@ Using this E-commerce model, you are able to add, update and delete products, ta
 
 ## Installation
 
-[Walkthrough Video](link) Git Clone Repo
+[Walkthrough Video](https://drive.google.com/file/d/1RQZUrZNn4U1jIwin_8l6xz8FmQfFa2_J/view) Git Clone Repo
 
 ## Usage
 
+Type the following commands into your terminal to initialize MySQL:
+
+- DROP DATABASE IF EXISTS ecommerce_db;
+- CREATE DATABASE ecommerce_db;
+
 Type the following commands into your integrated terminal:
 
-npm install
-npm run seed
-node server / install nodemon
+- npm install
+- npm run seed
+- node server
 
 NOTE: make sure you have Insomnia Downloaded to your computer.
 [Insomnia](https://insomnia.rest/download) Download the latest version
 
 ## Demo
 
-[Full Video ](https://drive.google.com/)
+[Full Video ](https://drive.google.com/file/d/1RQZUrZNn4U1jIwin_8l6xz8FmQfFa2_J/view)
 
 ## Technologies Used
 
@@ -45,9 +50,9 @@ NOTE: make sure you have Insomnia Downloaded to your computer.
 
 Contact me here:
 
-[GitHub Profile](https://github.com/anacecyflores1/)
-🖥️  Checkout my [LinkedIn](https://www.linkedin.com/in/anacecyflores/)
-✉️  You can contact me at [anacecyflores1@gmail.com](mailto:anacecyflores1@gmail.com)
+- [GitHub Profile](https://github.com/anacecyflores1/)
+- 🖥️  Checkout my [LinkedIn](https://www.linkedin.com/in/anacecyflores/)
+- ✉️ You can contact me at [anacecyflores1@gmail.com](mailto:anacecyflores1@gmail.com)
 
 ## License
 
